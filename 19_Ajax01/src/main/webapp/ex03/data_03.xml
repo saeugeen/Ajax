@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+	<product name="이온 음료" price="8000"/>
+	<product name="스포츠 음료" price="1000"/>
+	<product name="탄산 음료" price="9000"/>
+	<product name="커피 음료" price="15000"/>
+</products>
